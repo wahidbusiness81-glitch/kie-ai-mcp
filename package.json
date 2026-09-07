@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.18.0",
-    "express": "^5.1.0"
+    "agents": "latest",
+    "@modelcontextprotocol/server": "2.0.0",
+    "zod": "latest"
   }
 }
